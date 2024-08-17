@@ -1,0 +1,18 @@
+.btn {
+    display: inline-block;
+    padding: 5px 10px;
+    border-radius: 5px;
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    margin-right: 10px;
+}
+
+.btn-blue {
+    background-color: blue;
+}
+
+.btn-yellow {
+    background-color: yellow;
+    color: black; /* Yellow background, so black text is more readable */
+}
